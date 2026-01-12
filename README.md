@@ -163,6 +163,7 @@ BTW, thanks for checking out..!!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/hirux06/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [1903-largest-odd-number-in-string](https://github.com/hirux06/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -180,6 +181,7 @@ BTW, thanks for checking out..!!
 | [0151-reverse-words-in-a-string](https://github.com/hirux06/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/hirux06/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/hirux06/leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1903-largest-odd-number-in-string](https://github.com/hirux06/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Math
 |  |
 | ------- |
@@ -188,6 +190,7 @@ BTW, thanks for checking out..!!
 | [0172-factorial-trailing-zeroes](https://github.com/hirux06/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/hirux06/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/hirux06/leetcode-solutions/tree/master/0268-missing-number) |
+| [1903-largest-odd-number-in-string](https://github.com/hirux06/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Tree
 |  |
 | ------- |
