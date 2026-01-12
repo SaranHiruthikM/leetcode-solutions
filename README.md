@@ -40,6 +40,7 @@ BTW, thanks for checking out..!!
 | ------- |
 | [0001-two-sum](https://github.com/hirux06/leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/hirux06/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/hirux06/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/hirux06/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/hirux06/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hirux06/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -175,6 +176,7 @@ BTW, thanks for checking out..!!
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/hirux06/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/hirux06/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/hirux06/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/hirux06/leetcode-solutions/tree/master/0125-valid-palindrome) |
@@ -280,4 +282,8 @@ BTW, thanks for checking out..!!
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/hirux06/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/hirux06/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
