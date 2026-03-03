@@ -176,6 +176,7 @@ BTW, thanks for checking out..!!
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/hirux06/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/hirux06/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/hirux06/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/hirux06/leetcode-solutions/tree/master/0071-simplify-path) |
@@ -192,6 +193,7 @@ BTW, thanks for checking out..!!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/hirux06/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/hirux06/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/hirux06/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/hirux06/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/hirux06/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -230,6 +232,7 @@ BTW, thanks for checking out..!!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hirux06/leetcode-solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/hirux06/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0138-copy-list-with-random-pointer](https://github.com/hirux06/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/hirux06/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hirux06/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
