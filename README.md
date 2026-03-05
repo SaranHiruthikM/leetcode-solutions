@@ -204,6 +204,7 @@ BTW, thanks for checking out..!!
 | [0002-add-two-numbers](https://github.com/hirux06/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/hirux06/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/hirux06/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/hirux06/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0172-factorial-trailing-zeroes](https://github.com/hirux06/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/hirux06/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/hirux06/leetcode-solutions/tree/master/0268-missing-number) |
@@ -234,6 +235,7 @@ BTW, thanks for checking out..!!
 | [0002-add-two-numbers](https://github.com/hirux06/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/hirux06/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/hirux06/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0060-permutation-sequence](https://github.com/hirux06/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/hirux06/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/hirux06/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/hirux06/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
