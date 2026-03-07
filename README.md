@@ -140,6 +140,7 @@ BTW, thanks for checking out..!!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/hirux06/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/hirux06/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/hirux06/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/hirux06/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hirux06/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -187,6 +188,7 @@ BTW, thanks for checking out..!!
 | [0013-roman-to-integer](https://github.com/hirux06/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/hirux06/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/hirux06/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/hirux06/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/hirux06/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/hirux06/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/hirux06/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -271,6 +273,7 @@ BTW, thanks for checking out..!!
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/hirux06/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/hirux06/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/hirux06/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/hirux06/leetcode-solutions/tree/master/0040-combination-sum-ii) |
