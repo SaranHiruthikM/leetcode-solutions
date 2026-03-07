@@ -72,6 +72,7 @@ BTW, thanks for checking out..!!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hirux06/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/hirux06/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/hirux06/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0216-combination-sum-iii](https://github.com/hirux06/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/hirux06/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/hirux06/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hirux06/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -281,6 +282,7 @@ BTW, thanks for checking out..!!
 | [0051-n-queens](https://github.com/hirux06/leetcode-solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/hirux06/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/hirux06/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/hirux06/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 ## Design
 |  |
 | ------- |
