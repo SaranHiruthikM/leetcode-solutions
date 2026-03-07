@@ -198,6 +198,7 @@ BTW, thanks for checking out..!!
 | [0151-reverse-words-in-a-string](https://github.com/hirux06/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/hirux06/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/hirux06/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/hirux06/leetcode-solutions/tree/master/0282-expression-add-operators) |
 | [0451-sort-characters-by-frequency](https://github.com/hirux06/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/hirux06/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/hirux06/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -215,6 +216,7 @@ BTW, thanks for checking out..!!
 | [0172-factorial-trailing-zeroes](https://github.com/hirux06/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/hirux06/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/hirux06/leetcode-solutions/tree/master/0268-missing-number) |
+| [0282-expression-add-operators](https://github.com/hirux06/leetcode-solutions/tree/master/0282-expression-add-operators) |
 | [1903-largest-odd-number-in-string](https://github.com/hirux06/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Tree
 |  |
@@ -291,6 +293,7 @@ BTW, thanks for checking out..!!
 | [0079-word-search](https://github.com/hirux06/leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/hirux06/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/hirux06/leetcode-solutions/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/hirux06/leetcode-solutions/tree/master/0282-expression-add-operators) |
 ## Design
 |  |
 | ------- |
