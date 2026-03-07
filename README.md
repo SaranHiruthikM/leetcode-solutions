@@ -59,6 +59,7 @@ BTW, thanks for checking out..!!
 | [0074-search-a-2d-matrix](https://github.com/hirux06/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/hirux06/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/hirux06/leetcode-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/hirux06/leetcode-solutions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hirux06/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/hirux06/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/hirux06/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -192,6 +193,7 @@ BTW, thanks for checking out..!!
 | [0020-valid-parentheses](https://github.com/hirux06/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/hirux06/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/hirux06/leetcode-solutions/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/hirux06/leetcode-solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/hirux06/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/hirux06/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/hirux06/leetcode-solutions/tree/master/0205-isomorphic-strings) |
@@ -222,6 +224,7 @@ BTW, thanks for checking out..!!
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/hirux06/leetcode-solutions/tree/master/0079-word-search) |
 | [0404-sum-of-left-leaves](https://github.com/hirux06/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [1005-univalued-binary-tree](https://github.com/hirux06/leetcode-solutions/tree/master/1005-univalued-binary-tree) |
 ## Breadth-First Search
@@ -273,6 +276,7 @@ BTW, thanks for checking out..!!
 | [0048-rotate-image](https://github.com/hirux06/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/hirux06/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/hirux06/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/hirux06/leetcode-solutions/tree/master/0079-word-search) |
 ## Backtracking
 |  |
 | ------- |
@@ -284,6 +288,7 @@ BTW, thanks for checking out..!!
 | [0046-permutations](https://github.com/hirux06/leetcode-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/hirux06/leetcode-solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/hirux06/leetcode-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/hirux06/leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/hirux06/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/hirux06/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 ## Design
