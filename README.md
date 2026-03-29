@@ -162,6 +162,7 @@ BTW, thanks for checking out..!!
 | [0042-trapping-rain-water](https://github.com/hirux06/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/hirux06/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/hirux06/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/hirux06/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/hirux06/leetcode-solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/hirux06/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/hirux06/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -237,6 +238,7 @@ BTW, thanks for checking out..!!
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/hirux06/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/hirux06/leetcode-solutions/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hirux06/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hirux06/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -250,6 +252,7 @@ BTW, thanks for checking out..!!
 |  |
 | ------- |
 | [0079-word-search](https://github.com/hirux06/leetcode-solutions/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/hirux06/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/hirux06/leetcode-solutions/tree/master/0100-same-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hirux06/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/hirux06/leetcode-solutions/tree/master/0257-binary-tree-paths) |
@@ -268,6 +271,7 @@ BTW, thanks for checking out..!!
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/hirux06/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/hirux06/leetcode-solutions/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hirux06/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hirux06/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
