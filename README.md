@@ -64,6 +64,7 @@ BTW, thanks for checking out..!!
 | [0084-largest-rectangle-in-histogram](https://github.com/hirux06/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/hirux06/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/hirux06/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hirux06/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/hirux06/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hirux06/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/hirux06/leetcode-solutions/tree/master/0136-single-number) |
@@ -236,6 +237,7 @@ BTW, thanks for checking out..!!
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/hirux06/leetcode-solutions/tree/master/0100-same-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hirux06/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hirux06/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/hirux06/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/hirux06/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -261,6 +263,7 @@ BTW, thanks for checking out..!!
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/hirux06/leetcode-solutions/tree/master/0100-same-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hirux06/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hirux06/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/hirux06/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/hirux06/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -286,6 +289,7 @@ BTW, thanks for checking out..!!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hirux06/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/hirux06/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/hirux06/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hirux06/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/hirux06/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/hirux06/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hirux06/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -351,6 +355,7 @@ BTW, thanks for checking out..!!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hirux06/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/hirux06/leetcode-solutions/tree/master/0169-majority-element) |
 ## Counting
 |  |
