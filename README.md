@@ -257,6 +257,7 @@ BTW, thanks for checking out..!!
 | [0543-diameter-of-binary-tree](https://github.com/hirux06/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/hirux06/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hirux06/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1005-univalued-binary-tree](https://github.com/hirux06/leetcode-solutions/tree/master/1005-univalued-binary-tree) |
 ## Depth-First Search
 |  |
@@ -272,6 +273,7 @@ BTW, thanks for checking out..!!
 | [0543-diameter-of-binary-tree](https://github.com/hirux06/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/hirux06/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hirux06/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1005-univalued-binary-tree](https://github.com/hirux06/leetcode-solutions/tree/master/1005-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -279,6 +281,7 @@ BTW, thanks for checking out..!!
 | [0100-same-tree](https://github.com/hirux06/leetcode-solutions/tree/master/0100-same-tree) |
 | [0404-sum-of-left-leaves](https://github.com/hirux06/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hirux06/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1005-univalued-binary-tree](https://github.com/hirux06/leetcode-solutions/tree/master/1005-univalued-binary-tree) |
 ## Binary Tree
 |  |
@@ -295,6 +298,7 @@ BTW, thanks for checking out..!!
 | [0543-diameter-of-binary-tree](https://github.com/hirux06/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/hirux06/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hirux06/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1005-univalued-binary-tree](https://github.com/hirux06/leetcode-solutions/tree/master/1005-univalued-binary-tree) |
 ## Recursion
 |  |
@@ -445,4 +449,5 @@ BTW, thanks for checking out..!!
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hirux06/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
