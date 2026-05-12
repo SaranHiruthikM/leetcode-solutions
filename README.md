@@ -269,6 +269,7 @@ BTW, thanks for checking out..!!
 | [0572-subtree-of-another-tree](https://github.com/hirux06/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hirux06/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/hirux06/leetcode-solutions/tree/master/1005-univalued-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
@@ -291,6 +292,7 @@ BTW, thanks for checking out..!!
 | [0572-subtree-of-another-tree](https://github.com/hirux06/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hirux06/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/hirux06/leetcode-solutions/tree/master/1005-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -301,6 +303,7 @@ BTW, thanks for checking out..!!
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hirux06/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/hirux06/leetcode-solutions/tree/master/1005-univalued-binary-tree) |
 ## Binary Tree
 |  |
@@ -324,6 +327,7 @@ BTW, thanks for checking out..!!
 | [0572-subtree-of-another-tree](https://github.com/hirux06/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hirux06/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/hirux06/leetcode-solutions/tree/master/1005-univalued-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Recursion
@@ -360,6 +364,7 @@ BTW, thanks for checking out..!!
 | [0496-next-greater-element-i](https://github.com/hirux06/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/hirux06/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/hirux06/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/hirux06/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/hirux06/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hirux06/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
