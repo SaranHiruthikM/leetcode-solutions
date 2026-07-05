@@ -290,6 +290,7 @@ BTW, thanks for checking out..!!
 | [0404-sum-of-left-leaves](https://github.com/hirux06/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/hirux06/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/hirux06/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hirux06/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -303,6 +304,7 @@ BTW, thanks for checking out..!!
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0404-sum-of-left-leaves](https://github.com/hirux06/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hirux06/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -497,4 +499,12 @@ BTW, thanks for checking out..!!
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
