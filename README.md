@@ -102,6 +102,7 @@ BTW, thanks for checking out..!!
 | [0992-subarrays-with-k-different-integers](https://github.com/hirux06/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hirux06/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/hirux06/leetcode-solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hirux06/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -329,6 +330,7 @@ BTW, thanks for checking out..!!
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1005-univalued-binary-tree](https://github.com/hirux06/leetcode-solutions/tree/master/1005-univalued-binary-tree) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
@@ -411,6 +413,7 @@ BTW, thanks for checking out..!!
 | [0542-01-matrix](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Backtracking
 |  |
 | ------- |
