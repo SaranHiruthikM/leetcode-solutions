@@ -225,6 +225,7 @@ BTW, thanks for checking out..!!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hirux06/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/hirux06/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/hirux06/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0038-count-and-say) |
 | [0071-simplify-path](https://github.com/hirux06/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/hirux06/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/hirux06/leetcode-solutions/tree/master/0079-word-search) |
