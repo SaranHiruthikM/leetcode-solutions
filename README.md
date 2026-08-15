@@ -307,6 +307,7 @@ BTW, thanks for checking out..!!
 | [0572-subtree-of-another-tree](https://github.com/hirux06/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hirux06/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -329,6 +330,7 @@ BTW, thanks for checking out..!!
 | [0547-number-of-provinces](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hirux06/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -498,6 +500,7 @@ BTW, thanks for checking out..!!
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/hirux06/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0743-network-delay-time](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Bucket Sort
@@ -550,6 +553,7 @@ BTW, thanks for checking out..!!
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
@@ -572,9 +576,11 @@ BTW, thanks for checking out..!!
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
