@@ -1,34 +1,68 @@
-class SummaryRanges {
-    HashSet<Integer> set;
-    public SummaryRanges() {
-        this.set = new HashSet<>();
-    }
-    
-    public void addNum(int value) {
-        this.set.add(value);
-    }
-    
-    public int[][] getIntervals() {
-        List<Integer> list = new ArrayList<>(set);
-        List<int[]> res = new ArrayList<>();
-        list.sort(Comparator.naturalOrder());
-        int n = list.size();
-        for(int i=0; i<n; i++){
-            int left = list.get(i);
-            while(i < n-1 && list.get(i)+1 == list.get(i+1)){
-                i++;
-            }
-            res.add(new int[]{left, list.get(i)});
+import java.util.*;
 
+class SummaryRanges {
+
+    private TreeMap<Integer, Integer> map;
+
+    public SummaryRanges() {
+        map = new TreeMap<>();
+    }
+
+    public void addNum(int value) {
+
+        // Already inside an existing interval
+        Integer left = map.floorKey(value);
+
+        if (left != null && map.get(left) >= value) {
+            return;
         }
 
-        return res.toArray(new int[res.size()][]);
+        // First interval starting at or after value
+        Integer right = map.ceilingKey(value);
+
+        boolean connectLeft =
+                left != null && map.get(left) + 1 == value;
+
+        boolean connectRight =
+                right != null && right - 1 == value;
+
+        // Connect both intervals
+        if (connectLeft && connectRight) {
+            map.put(left, map.get(right));
+            map.remove(right);
+        }
+
+        // Extend left interval
+        else if (connectLeft) {
+            map.put(left, value);
+        }
+
+        // Extend right interval
+        else if (connectRight) {
+            int end = map.get(right);
+
+            map.remove(right);
+            map.put(value, end);
+        }
+
+        // Create a new interval
+        else {
+            map.put(value, value);
+        }
+    }
+
+    public int[][] getIntervals() {
+
+        int[][] result = new int[map.size()][2];
+
+        int i = 0;
+
+        for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
+            result[i][0] = entry.getKey();
+            result[i][1] = entry.getValue();
+            i++;
+        }
+
+        return result;
     }
 }
-
-/**
- * Your SummaryRanges object will be instantiated and called as such:
- * SummaryRanges obj = new SummaryRanges();
- * obj.addNum(value);
- * int[][] param_2 = obj.getIntervals();
- */
