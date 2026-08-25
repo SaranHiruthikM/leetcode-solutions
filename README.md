@@ -155,6 +155,7 @@ BTW, thanks for checking out..!!
 | [0162-find-peak-element](https://github.com/hirux06/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hirux06/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/hirux06/leetcode-solutions/tree/master/0268-missing-number) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hirux06/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/hirux06/leetcode-solutions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/hirux06/leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -403,6 +404,7 @@ BTW, thanks for checking out..!!
 | [0229-majority-element-ii](https://github.com/hirux06/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/hirux06/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/hirux06/leetcode-solutions/tree/master/0268-missing-number) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/hirux06/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/hirux06/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/hirux06/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -455,6 +457,7 @@ BTW, thanks for checking out..!!
 | ------- |
 | [0155-min-stack](https://github.com/hirux06/leetcode-solutions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Sorting
 |  |
 | ------- |
@@ -553,6 +556,7 @@ BTW, thanks for checking out..!!
 | ------- |
 | [0130-surrounded-regions](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0547-number-of-provinces](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
@@ -591,4 +595,12 @@ BTW, thanks for checking out..!!
 | ------- |
 | [0743-network-delay-time](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+## Data Stream
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
+## Ordered Set
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 <!---LeetCode Topics End-->
