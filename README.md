@@ -115,6 +115,7 @@ BTW, thanks for checking out..!!
 | [1646-kth-missing-positive-number](https://github.com/hirux06/leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/hirux06/leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hirux06/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -265,6 +266,7 @@ BTW, thanks for checking out..!!
 | [0282-expression-add-operators](https://github.com/hirux06/leetcode-solutions/tree/master/0282-expression-add-operators) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hirux06/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/hirux06/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Tree
 |  |
 | ------- |
