@@ -120,6 +120,7 @@ BTW, thanks for checking out..!!
 | [1631-path-with-minimum-effort](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1646-kth-missing-positive-number](https://github.com/hirux06/leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/hirux06/leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2090-k-radius-subarray-averages](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hirux06/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Two Pointers
@@ -553,6 +554,7 @@ BTW, thanks for checking out..!!
 | [1248-count-number-of-nice-subarrays](https://github.com/hirux06/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hirux06/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hirux06/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2090-k-radius-subarray-averages](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2090-k-radius-subarray-averages) |
 ## Hash Function
 |  |
 | ------- |
