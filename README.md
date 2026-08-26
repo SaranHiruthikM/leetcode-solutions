@@ -103,6 +103,7 @@ BTW, thanks for checking out..!!
 | [0904-fruit-into-baskets](https://github.com/hirux06/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/hirux06/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [0909-snakes-and-ladders](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0909-snakes-and-ladders) |
+| [0934-shortest-bridge](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0934-shortest-bridge) |
 | [0992-subarrays-with-k-different-integers](https://github.com/hirux06/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0997-find-the-town-judge) |
@@ -325,6 +326,7 @@ BTW, thanks for checking out..!!
 | [0787-cheapest-flights-within-k-stops](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0934-shortest-bridge](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0934-shortest-bridge) |
 | [1005-univalued-binary-tree](https://github.com/hirux06/leetcode-solutions/tree/master/1005-univalued-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
@@ -350,6 +352,7 @@ BTW, thanks for checking out..!!
 | [0802-find-eventual-safe-states](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0909-snakes-and-ladders](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0909-snakes-and-ladders) |
+| [0934-shortest-bridge](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1005-univalued-binary-tree](https://github.com/hirux06/leetcode-solutions/tree/master/1005-univalued-binary-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -442,6 +445,7 @@ BTW, thanks for checking out..!!
 | [0542-01-matrix](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0909-snakes-and-ladders](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0909-snakes-and-ladders) |
+| [0934-shortest-bridge](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
