@@ -108,6 +108,7 @@ BTW, thanks for checking out..!!
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hirux06/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1345-jump-game-iv](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/hirux06/leetcode-solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hirux06/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -324,6 +325,7 @@ BTW, thanks for checking out..!!
 | [0802-find-eventual-safe-states](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/hirux06/leetcode-solutions/tree/master/1005-univalued-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
@@ -350,6 +352,7 @@ BTW, thanks for checking out..!!
 | [0994-rotting-oranges](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1005-univalued-binary-tree](https://github.com/hirux06/leetcode-solutions/tree/master/1005-univalued-binary-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1345-jump-game-iv](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1631-path-with-minimum-effort](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -439,6 +442,7 @@ BTW, thanks for checking out..!!
 | [0909-snakes-and-ladders](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Backtracking
 |  |
@@ -566,6 +570,7 @@ BTW, thanks for checking out..!!
 | [0352-data-stream-as-disjoint-intervals](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0547-number-of-provinces](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [1254-number-of-closed-islands](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
