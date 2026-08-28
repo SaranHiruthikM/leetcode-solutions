@@ -113,6 +113,7 @@ BTW, thanks for checking out..!!
 | [1091-shortest-path-in-binary-matrix](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hirux06/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1345-jump-game-iv](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/hirux06/leetcode-solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -221,6 +222,7 @@ BTW, thanks for checking out..!!
 | ------- |
 | [0011-container-with-most-water](https://github.com/hirux06/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0605-can-place-flowers) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1903-largest-odd-number-in-string](https://github.com/hirux06/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2551-put-marbles-in-bags](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2551-put-marbles-in-bags) |
 ## Bit Manipulation
@@ -437,6 +439,7 @@ BTW, thanks for checking out..!!
 | [0992-subarrays-with-k-different-integers](https://github.com/hirux06/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hirux06/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1345-jump-game-iv](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hirux06/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/hirux06/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
