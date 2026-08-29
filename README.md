@@ -124,6 +124,7 @@ BTW, thanks for checking out..!!
 | [1631-path-with-minimum-effort](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1646-kth-missing-positive-number](https://github.com/hirux06/leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/hirux06/leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2090-k-radius-subarray-averages](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hirux06/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -180,6 +181,7 @@ BTW, thanks for checking out..!!
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/hirux06/leetcode-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1646-kth-missing-positive-number](https://github.com/hirux06/leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -446,6 +448,7 @@ BTW, thanks for checking out..!!
 | [1345-jump-game-iv](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hirux06/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/hirux06/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Matrix
 |  |
@@ -571,6 +574,7 @@ BTW, thanks for checking out..!!
 | [1248-count-number-of-nice-subarrays](https://github.com/hirux06/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hirux06/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hirux06/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2090-k-radius-subarray-averages](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2090-k-radius-subarray-averages) |
 ## Hash Function
 |  |
