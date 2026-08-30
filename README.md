@@ -135,6 +135,7 @@ BTW, thanks for checking out..!!
 | [2271-rearrange-array-elements-by-sign](https://github.com/hirux06/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2551-put-marbles-in-bags](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2551-put-marbles-in-bags) |
 ## Two Pointers
 |  |
@@ -481,6 +482,7 @@ BTW, thanks for checking out..!!
 | [1254-number-of-closed-islands](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Backtracking
 |  |
 | ------- |
@@ -546,6 +548,7 @@ BTW, thanks for checking out..!!
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1535-find-the-winner-of-an-array-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hirux06/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Prefix Sum
 |  |
 | ------- |
