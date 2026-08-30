@@ -676,4 +676,8 @@ BTW, thanks for checking out..!!
 |  |
 | ------- |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
