@@ -91,6 +91,7 @@ BTW, thanks for checking out..!!
 | [0473-matchsticks-to-square](https://github.com/hirux06/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0485-max-consecutive-ones](https://github.com/hirux06/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/hirux06/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/hirux06/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hirux06/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0542-01-matrix) |
@@ -466,6 +467,7 @@ BTW, thanks for checking out..!!
 | [0079-word-search](https://github.com/hirux06/leetcode-solutions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0498-diagonal-traverse](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0864-shortest-path-to-get-all-keys) |
@@ -537,6 +539,7 @@ BTW, thanks for checking out..!!
 | ------- |
 | [0054-spiral-matrix](https://github.com/hirux06/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1535-find-the-winner-of-an-array-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hirux06/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
