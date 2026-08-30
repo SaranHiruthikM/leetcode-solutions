@@ -98,6 +98,7 @@ BTW, thanks for checking out..!!
 | [0560-subarray-sum-equals-k](https://github.com/hirux06/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/hirux06/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0661-image-smoother](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/hirux06/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/hirux06/leetcode-solutions/tree/master/0792-binary-search) |
@@ -473,6 +474,7 @@ BTW, thanks for checking out..!!
 | [0200-number-of-islands](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0542-01-matrix) |
+| [0661-image-smoother](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0909-snakes-and-ladders](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0909-snakes-and-ladders) |
