@@ -117,6 +117,7 @@ BTW, thanks for checking out..!!
 | [1248-count-number-of-nice-subarrays](https://github.com/hirux06/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1345-jump-game-iv](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/hirux06/leetcode-solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
