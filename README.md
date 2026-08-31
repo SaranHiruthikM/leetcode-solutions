@@ -228,6 +228,7 @@ BTW, thanks for checking out..!!
 | [0901-online-stock-span](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/hirux06/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/hirux06/leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
@@ -284,6 +285,7 @@ BTW, thanks for checking out..!!
 | [0451-sort-characters-by-frequency](https://github.com/hirux06/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/hirux06/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/hirux06/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/hirux06/leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hirux06/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/hirux06/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
