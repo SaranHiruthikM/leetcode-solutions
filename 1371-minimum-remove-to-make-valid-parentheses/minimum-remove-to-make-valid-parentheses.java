@@ -4,19 +4,13 @@ class Solution {
         Stack<Integer> st = new Stack<>();
         for(int i=0; i<s.length(); i++){
             char ch = s.charAt(i);
-            if(!st.isEmpty()){
-                if(ch == ')' && s.charAt(st.peek()) == '('){
+            if(ch == '('){
+                st.push(i);
+            }else if(ch == ')'){
+                if(st.isEmpty()){
+                    invalid.add(i);
+                }else if(s.charAt(st.peek()) == '('){
                     st.pop();
-                }else if(ch == ')' && s.charAt(st.peek()) != '('){
-                    invalid.add(i);
-                }else if(ch == '('){
-                    st.push(i);
-                }
-            }else{
-                if(ch == ')'){
-                    invalid.add(i);
-                }else if(ch == '('){
-                    st.push(i);
                 }
             }
         }
