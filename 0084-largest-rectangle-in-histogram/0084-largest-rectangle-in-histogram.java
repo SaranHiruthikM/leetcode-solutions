@@ -1,39 +1,51 @@
 class Solution {
+    private int[] getNSL(int[] height){
+        Stack<Integer> st = new Stack<>();
+        int res[] = new int[height.length];
+        for(int i=0; i<height.length; i++){
+            if(st.isEmpty()){
+                res[i] = -1;
+            }else{
+                while(!st.isEmpty() && height[st.peek()] >= height[i]){
+                    st.pop();
+                }
+                res[i] = (st.isEmpty()) ? -1 : st.peek();
+            }
+
+            st.push(i);
+        }
+
+        return res;
+    }
+
+    private int[] getNSR(int[] height){
+        Stack<Integer> st = new Stack<>();
+        int res[] = new int[height.length];
+        for(int i=height.length-1; i>=0; i--){
+            if(st.isEmpty()){
+                res[i] = height.length;
+            }else{
+                while(!st.isEmpty() && height[st.peek()] >= height[i]){
+                    st.pop();
+                }
+                res[i] = (st.isEmpty()) ? height.length : st.peek();
+            }
+
+            st.push(i);
+        }
+
+        return res;
+    }
+
     public int largestRectangleArea(int[] heights) {
-        int ans = 0;
-        int n= heights.length;
-        int left[] = new int[heights.length];
-        int right[] = new int[heights.length];
-        Stack<Integer> s = new Stack<>();
-
-        for(int i=0; i<n; i++){
-            while(s.size() >0 && heights[s.peek()] >= heights[i]){
-                s.pop();
-            }
-
-            left[i] = s.size() == 0 ? -1 : s.peek();
-            s.push(i);
+        int[] NSL = getNSL(heights);
+        int[] NSR = getNSR(heights);
+        int res = 0;
+        for(int i=0; i<NSL.length; i++){
+            int width = NSR[i] - NSL[i] - 1;
+            res = Math.max(res, heights[i]*width);
         }
 
-        while(!s.isEmpty()){
-            s.pop();
-        }
-
-        for(int i=n-1; i>=0; i--){
-            while(s.size() >0 && heights[s.peek()] >= heights[i]){
-                s.pop();
-            }
-
-            right[i] = s.size() == 0 ? n : s.peek();
-            s.push(i);
-        }
-
-
-
-        for(int i=0; i<n; i++){
-            int currArea = heights[i] * (right[i] - left[i] - 1);
-            ans = Math.max(ans, currArea);
-        }
-        return ans;
+        return res;
     }
 }
