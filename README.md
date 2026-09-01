@@ -244,6 +244,7 @@ BTW, thanks for checking out..!!
 | [1021-remove-outermost-parentheses](https://github.com/hirux06/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/hirux06/leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
@@ -306,6 +307,7 @@ BTW, thanks for checking out..!!
 | [1021-remove-outermost-parentheses](https://github.com/hirux06/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/hirux06/leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hirux06/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/hirux06/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/hirux06/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
