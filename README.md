@@ -733,4 +733,8 @@ BTW, thanks for checking out..!!
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1291-sequential-digits) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
