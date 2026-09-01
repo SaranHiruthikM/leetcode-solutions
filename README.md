@@ -130,6 +130,7 @@ BTW, thanks for checking out..!!
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/hirux06/leetcode-solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hirux06/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1441-build-an-array-with-stack-operations](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/hirux06/leetcode-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -243,6 +244,7 @@ BTW, thanks for checking out..!!
 | [1021-remove-outermost-parentheses](https://github.com/hirux06/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/hirux06/leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1441-build-an-array-with-stack-operations](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
@@ -585,6 +587,7 @@ BTW, thanks for checking out..!!
 | [0498-diagonal-traverse](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0946-validate-stack-sequences) |
+| [1441-build-an-array-with-stack-operations](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1535-find-the-winner-of-an-array-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
