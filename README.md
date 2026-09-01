@@ -221,6 +221,7 @@ BTW, thanks for checking out..!!
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/hirux06/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/hirux06/leetcode-solutions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0224-basic-calculator](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/hirux06/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/hirux06/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hirux06/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
@@ -279,6 +280,7 @@ BTW, thanks for checking out..!!
 | [0131-palindrome-partitioning](https://github.com/hirux06/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/hirux06/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/hirux06/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/hirux06/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/hirux06/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/hirux06/leetcode-solutions/tree/master/0282-expression-add-operators) |
@@ -302,6 +304,7 @@ BTW, thanks for checking out..!!
 | [0060-permutation-sequence](https://github.com/hirux06/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0172-factorial-trailing-zeroes](https://github.com/hirux06/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/hirux06/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/hirux06/leetcode-solutions/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/hirux06/leetcode-solutions/tree/master/0282-expression-add-operators) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hirux06/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -434,6 +437,7 @@ BTW, thanks for checking out..!!
 | [0060-permutation-sequence](https://github.com/hirux06/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/hirux06/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/hirux06/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/hirux06/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
