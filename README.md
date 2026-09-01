@@ -91,6 +91,7 @@ BTW, thanks for checking out..!!
 | [0238-product-of-array-except-self](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/hirux06/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hirux06/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0456-132-pattern](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0473-matchsticks-to-square](https://github.com/hirux06/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0485-max-consecutive-ones](https://github.com/hirux06/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/hirux06/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -191,6 +192,7 @@ BTW, thanks for checking out..!!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hirux06/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/hirux06/leetcode-solutions/tree/master/0268-missing-number) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0456-132-pattern](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hirux06/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/hirux06/leetcode-solutions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/hirux06/leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -229,6 +231,7 @@ BTW, thanks for checking out..!!
 | [0173-binary-search-tree-iterator](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/hirux06/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0456-132-pattern](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/hirux06/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hirux06/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0735-asteroid-collision) |
@@ -246,6 +249,7 @@ BTW, thanks for checking out..!!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hirux06/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/hirux06/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0456-132-pattern](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/hirux06/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hirux06/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/hirux06/leetcode-solutions/tree/master/0739-daily-temperatures) |
@@ -710,6 +714,7 @@ BTW, thanks for checking out..!!
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0456-132-pattern](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0456-132-pattern) |
 ## Brainteaser
 |  |
 | ------- |
