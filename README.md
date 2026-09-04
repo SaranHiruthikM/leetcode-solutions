@@ -134,6 +134,7 @@ BTW, thanks for checking out..!!
 | [1441-build-an-array-with-stack-operations](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1535-find-the-winner-of-an-array-game) |
+| [1584-min-cost-to-connect-all-points](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/hirux06/leetcode-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1646-kth-missing-positive-number](https://github.com/hirux06/leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
@@ -696,6 +697,7 @@ BTW, thanks for checking out..!!
 | [0785-is-graph-bipartite](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1584-min-cost-to-connect-all-points](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Graph Theory
@@ -708,6 +710,7 @@ BTW, thanks for checking out..!!
 | [0802-find-eventual-safe-states](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [0997-find-the-town-judge](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1584-min-cost-to-connect-all-points](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Topological Sort
 |  |
@@ -762,4 +765,20 @@ BTW, thanks for checking out..!!
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
