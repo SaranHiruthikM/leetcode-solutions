@@ -411,6 +411,7 @@ BTW, thanks for checking out..!!
 | [1254-number-of-closed-islands](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [1971-find-if-path-exists-in-graph](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2097-valid-arrangement-of-pairs](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2097-valid-arrangement-of-pairs) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -446,6 +447,7 @@ BTW, thanks for checking out..!!
 | [1345-jump-game-iv](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1631-path-with-minimum-effort](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [1971-find-if-path-exists-in-graph](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
@@ -710,6 +712,7 @@ BTW, thanks for checking out..!!
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [1971-find-if-path-exists-in-graph](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Graph Theory
 |  |
@@ -723,6 +726,7 @@ BTW, thanks for checking out..!!
 | [0997-find-the-town-judge](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
+| [1971-find-if-path-exists-in-graph](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2097-valid-arrangement-of-pairs](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2097-valid-arrangement-of-pairs) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Topological Sort
