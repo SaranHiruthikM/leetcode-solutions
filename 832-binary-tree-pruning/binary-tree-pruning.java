@@ -19,14 +19,6 @@ class Solution {
             return null;
         }
 
-        if(root.left == null && root.right == null){
-            if(root.val == 0){
-                return null;
-            }
-
-            return root;
-        }
-
         root.left = dfs(root.left);
         root.right = dfs(root.right);
 
