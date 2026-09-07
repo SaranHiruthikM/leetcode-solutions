@@ -374,6 +374,7 @@ BTW, thanks for checking out..!!
 | [0572-subtree-of-another-tree](https://github.com/hirux06/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hirux06/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0814-binary-tree-pruning](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/hirux06/leetcode-solutions/tree/master/1005-univalued-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -408,6 +409,7 @@ BTW, thanks for checking out..!!
 | [0785-is-graph-bipartite](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
+| [0814-binary-tree-pruning](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0814-binary-tree-pruning) |
 | [0841-keys-and-rooms](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0886-possible-bipartition](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0886-possible-bipartition) |
@@ -483,6 +485,7 @@ BTW, thanks for checking out..!!
 | [0572-subtree-of-another-tree](https://github.com/hirux06/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hirux06/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0814-binary-tree-pruning](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/hirux06/leetcode-solutions/tree/master/1005-univalued-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
