@@ -197,6 +197,7 @@ BTW, thanks for checking out..!!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hirux06/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/hirux06/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hirux06/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/hirux06/leetcode-solutions/tree/master/0268-missing-number) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0456-132-pattern](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0456-132-pattern) |
@@ -288,6 +289,7 @@ BTW, thanks for checking out..!!
 | [0078-subsets](https://github.com/hirux06/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/hirux06/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/hirux06/leetcode-solutions/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/hirux06/leetcode-solutions/tree/master/0268-missing-number) |
 | [0473-matchsticks-to-square](https://github.com/hirux06/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0645-set-mismatch](https://github.com/hirux06/leetcode-solutions/tree/master/0645-set-mismatch) |
@@ -365,6 +367,7 @@ BTW, thanks for checking out..!!
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0173-binary-search-tree-iterator](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hirux06/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -482,6 +485,7 @@ BTW, thanks for checking out..!!
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0173-binary-search-tree-iterator](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hirux06/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
