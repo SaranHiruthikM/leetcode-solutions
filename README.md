@@ -220,6 +220,7 @@ BTW, thanks for checking out..!!
 | [0085-maximal-rectangle](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/hirux06/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hirux06/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/hirux06/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/hirux06/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0473-matchsticks-to-square](https://github.com/hirux06/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
@@ -365,6 +366,7 @@ BTW, thanks for checking out..!!
 | [0112-path-sum](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/hirux06/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
@@ -399,6 +401,7 @@ BTW, thanks for checking out..!!
 | [0112-path-sum](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/hirux06/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0200-number-of-islands) |
@@ -489,6 +492,7 @@ BTW, thanks for checking out..!!
 | [0112-path-sum](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/hirux06/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
@@ -860,4 +864,8 @@ BTW, thanks for checking out..!!
 |  |
 | ------- |
 | [0886-possible-bipartition](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0886-possible-bipartition) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
