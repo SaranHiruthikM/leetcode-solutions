@@ -14,26 +14,19 @@
  * }
  */
 class Solution {
-    List<Integer> res = new ArrayList<>();
-    StringBuilder sb = new StringBuilder();
-    private void dfs(TreeNode root){
+    int sum = 0;
+    private void dfs(TreeNode root, int currNum){
         if(root == null) return;
-        sb.append(String.valueOf(root.val));
+        currNum = currNum*10 + root.val;
         if(root.left == null && root.right == null){
-            if(!sb.toString().equals("")) res.add(Integer.parseInt(sb.toString()));
+            sum += currNum;
         }
         
-        dfs(root.left);
-        dfs(root.right);
-        if(!sb.toString().equals("")) sb.setLength(sb.length()-1);
+        dfs(root.left, currNum);
+        dfs(root.right, currNum);
     }
     public int sumNumbers(TreeNode root) {
-        dfs(root);
-        int sum = 0;
-        for(int num : res){
-            sum += num;
-        }
-
+        dfs(root, 0);
         return sum;
     }
 }
