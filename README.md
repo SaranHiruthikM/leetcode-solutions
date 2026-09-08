@@ -238,6 +238,7 @@ BTW, thanks for checking out..!!
 | [0085-maximal-rectangle](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/hirux06/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/hirux06/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/hirux06/leetcode-solutions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
@@ -367,6 +368,7 @@ BTW, thanks for checking out..!!
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/hirux06/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
@@ -403,6 +405,7 @@ BTW, thanks for checking out..!!
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0130-surrounded-regions) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -493,6 +496,7 @@ BTW, thanks for checking out..!!
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/hirux06/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
