@@ -14,41 +14,26 @@
  * }
  */
 class Solution {
-    HashMap<TreeNode, int[]> map = new HashMap<>();
-    private void dfs(TreeNode root){
-        if(root == null) return;
-        dfs(root.left);
-        dfs(root.right);
-        if(root.left == null && root.right == null){
-            map.put(root, new int[]{root.val, 1});
-        }else{
-            int count = 0;
-            int sum = 0;
-            if(map.containsKey(root.left)){
-                int[] curr = map.get(root.left);
-                count += curr[1];
-                sum += curr[0];
-            }
-
-            if(map.containsKey(root.right)){
-                int[] curr = map.get(root.right);
-                count += curr[1];
-                sum += curr[0];
-            }
-                
-            map.put(root, new int[]{root.val + sum, count+1});
+    int count = 0;
+    private int[] dfs(TreeNode root){
+        if(root == null){
+            return new int[]{0, 0};
         }
 
+        int leftSubtree[] = dfs(root.left);
+        int rightSubtree[] = dfs(root.right);
+
+        int cnt = leftSubtree[1] + rightSubtree[1] + 1;
+        int sum = leftSubtree[0] + rightSubtree[0] + root.val;
+
+        if(root.val == (sum/cnt)){
+            count++;
+        }
         
+        return new int[]{sum, cnt};
     }
     public int averageOfSubtree(TreeNode root) {
         dfs(root);
-        int count = 0;
-        for (Map.Entry<TreeNode, int[]> entry : map.entrySet()) {
-            if(entry.getKey().val == (entry.getValue()[0]/entry.getValue()[1])){
-                count++;
-            }
-        }
 
         return count;
     }
