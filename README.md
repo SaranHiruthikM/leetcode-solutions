@@ -902,5 +902,6 @@ BTW, thanks for checking out..!!
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0979-distribute-coins-in-binary-tree) |
 <!---LeetCode Topics End-->
