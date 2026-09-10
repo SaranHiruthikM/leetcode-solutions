@@ -15,31 +15,22 @@
  */
 class Solution {
     int totCount = 0;
-    private void dfs(TreeNode root, int[] temp){
+    private void dfs(TreeNode root, int val){
         if(root == null) return;
-        temp[root.val-1]++;
+        
+        val = (val ^ (1 << root.val));
         
         if(root.left == null && root.right == null){
-            int oddCount = 0;
-            for(int i=0; i<9; i++){
-                if(temp[i] % 2 != 0){
-                    oddCount++;
-                }   
-            }
-
-            if(oddCount <= 1){
+            if((val & (val - 1)) == 0){
                 totCount++;
             }
         }
 
-        dfs(root.left, temp);
-        dfs(root.right, temp);
-
-        temp[root.val-1]--;
+        dfs(root.left, val);
+        dfs(root.right, val);
     }
     public int pseudoPalindromicPaths (TreeNode root) {
-        if(root.left == null && root.right == null) return 1;
-        dfs(root, new int[9]);
+        dfs(root, 0);
         return totCount;
     }
 }
