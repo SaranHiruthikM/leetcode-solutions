@@ -14,70 +14,26 @@
  * }
  */
 class Solution {
-    HashMap<TreeNode, TreeNode> parent = new HashMap<>();
-    TreeNode targetNode = null;
-    public void inorder(TreeNode root, int target){
-        if (root == null){
-            return;
+    int max = Integer.MIN_VALUE;
+    private int dfs(TreeNode root, int start){
+        if(root == null) return 0;
+
+        int lh = dfs(root.left, start);
+        int rh = dfs(root.right, start);
+
+        if(root.val == start){
+            max = Math.max(lh, rh);
+            return -1;
+        }else if(lh >= 0 && rh >= 0){
+            return Math.max(lh, rh) + 1;
+        }else{
+            int d = Math.abs(lh) + Math.abs(rh);
+            max = Math.max(max, d);
+            return Math.min(lh, rh) - 1;
         }
-
-        if(root.val == target){
-            targetNode = root;
-        }
-
-        if(root.left != null){
-            parent.put(root.left, root);
-        }
-        inorder(root.left, target);
-        if(root.right != null){
-            parent.put(root.right, root);
-        }
-        inorder(root.right, target);
-    }
-    public int BFS(TreeNode target){
-        Queue<TreeNode> q = new LinkedList<>();
-        HashMap<TreeNode, Integer> vis = new HashMap<>();
-        q.offer(target);
-        vis.put(target, 1);
-        int k = 0;
-        while(!q.isEmpty()){
-            int size = q.size();
-            boolean burned = false;
-            for(int i=0; i<size; i++){
-                TreeNode curr = q.poll();
-                if(curr.left != null && !vis.containsKey(curr.left)){
-                    q.offer(curr.left);
-                    burned=true;
-                    vis.put(curr.left, 1);
-                }
-
-                if(curr.right != null && !vis.containsKey(curr.right)){
-                    q.offer(curr.right);
-                    burned=true;
-                    vis.put(curr.right, 1);
-                }
-
-                if(parent.get(curr) != null && !vis.containsKey(parent.get(curr) )){
-                    q.offer(parent.get(curr) );
-                    burned=true;
-                    vis.put(parent.get(curr) , 1);
-                }
-
-            }
-
-            if (burned){
-                k++;
-            }
-
-        }
-
-        return k;
     }
     public int amountOfTime(TreeNode root, int start) {
-        if (root == null || (root.left == null && root.right == null)){
-            return 0;
-        }
-        inorder(root, start);
-        return BFS(targetNode);
+        dfs(root, start);
+        return max;
     }
 }
