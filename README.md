@@ -326,6 +326,7 @@ BTW, thanks for checking out..!!
 | [0451-sort-characters-by-frequency](https://github.com/hirux06/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/hirux06/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1021-remove-outermost-parentheses](https://github.com/hirux06/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/hirux06/leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -393,6 +394,7 @@ BTW, thanks for checking out..!!
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0979-distribute-coins-in-binary-tree) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1005-univalued-binary-tree](https://github.com/hirux06/leetcode-solutions/tree/master/1005-univalued-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -448,6 +450,7 @@ BTW, thanks for checking out..!!
 | [0934-shortest-bridge](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0934-shortest-bridge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0979-distribute-coins-in-binary-tree) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1005-univalued-binary-tree](https://github.com/hirux06/leetcode-solutions/tree/master/1005-univalued-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1110-delete-nodes-and-return-forest) |
@@ -544,6 +547,7 @@ BTW, thanks for checking out..!!
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0979-distribute-coins-in-binary-tree) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1005-univalued-binary-tree](https://github.com/hirux06/leetcode-solutions/tree/master/1005-univalued-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -653,6 +657,7 @@ BTW, thanks for checking out..!!
 | [0257-binary-tree-paths](https://github.com/hirux06/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/hirux06/leetcode-solutions/tree/master/0282-expression-add-operators) |
 | [0473-matchsticks-to-square](https://github.com/hirux06/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Design
 |  |
 | ------- |
