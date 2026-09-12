@@ -396,6 +396,7 @@ BTW, thanks for checking out..!!
 | [0814-binary-tree-pruning](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
+| [0951-flip-equivalent-binary-trees](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0951-flip-equivalent-binary-trees) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1005-univalued-binary-tree](https://github.com/hirux06/leetcode-solutions/tree/master/1005-univalued-binary-tree) |
@@ -457,6 +458,7 @@ BTW, thanks for checking out..!!
 | [0886-possible-bipartition](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0886-possible-bipartition) |
 | [0934-shortest-bridge](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0934-shortest-bridge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0951-flip-equivalent-binary-trees](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0951-flip-equivalent-binary-trees) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1005-univalued-binary-tree](https://github.com/hirux06/leetcode-solutions/tree/master/1005-univalued-binary-tree) |
@@ -559,6 +561,7 @@ BTW, thanks for checking out..!!
 | [0814-binary-tree-pruning](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
+| [0951-flip-equivalent-binary-trees](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0951-flip-equivalent-binary-trees) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1005-univalued-binary-tree](https://github.com/hirux06/leetcode-solutions/tree/master/1005-univalued-binary-tree) |
