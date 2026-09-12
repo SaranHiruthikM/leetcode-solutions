@@ -1,67 +1,60 @@
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
 class Solution {
+    int goodPairs = 0;
 
-    HashMap<TreeNode, List<TreeNode>> graph = new HashMap<>();
-    Set<TreeNode> leaves = new HashSet<>();
-
-    private void buildGraph(TreeNode root, TreeNode parent) {
-        if (root == null) return;
-
-        if (root.left == null && root.right == null) {
-            leaves.add(root);
+    private List<Integer> dfs(TreeNode root,int distance){
+        if(root == null){
+            return new ArrayList<>();
         }
 
-        if (parent != null) {
-            graph.computeIfAbsent(root, k -> new ArrayList<>()).add(parent);
-            graph.computeIfAbsent(parent, k -> new ArrayList<>()).add(root);
+        if(root.left == null && root.right == null){
+            List<Integer> res = new ArrayList<>();
+            res.add(1);
+            return res;
         }
 
-        buildGraph(root.left, root);
-        buildGraph(root.right, root);
-    }
+        List<Integer> left_d = dfs(root.left, distance);
+        List<Integer> right_d = dfs(root.right, distance);
 
-    public int countPairs(TreeNode root, int distance) {
-
-        // Convert tree into an undirected graph
-        buildGraph(root, null);
-
-        int count = 0;
-
-        // BFS from every leaf
-        for (TreeNode leaf : leaves) {
-
-            Queue<TreeNode> q = new LinkedList<>();
-            Set<TreeNode> visited = new HashSet<>();
-
-            q.offer(leaf);
-            visited.add(leaf);
-
-            int dist = 0;
-
-            while (!q.isEmpty() && dist <= distance) {
-
-                int size = q.size();
-
-                while (size-- > 0) {
-                    TreeNode curr = q.poll();
-
-                    // Found another leaf
-                    if (curr != leaf && leaves.contains(curr)) {
-                        count++;
-                    }
-
-                    for (TreeNode next : graph.getOrDefault(curr, new ArrayList<>())) {
-                        if (!visited.contains(next)) {
-                            visited.add(next);
-                            q.offer(next);
-                        }
-                    }
+        for(int l : left_d){
+            for(int r : right_d){
+                if(l + r <= distance){
+                    goodPairs++;
                 }
-
-                dist++;
+            }
+        }
+        List<Integer> curr = new ArrayList<>();
+        for(int l : left_d){
+            if(l+1 <= distance){
+                curr.add(l+1);
             }
         }
 
-        // Every pair was counted twice
-        return count / 2;
+        for(int r : right_d){
+            if(r+1 <= distance){
+                curr.add(r+1);
+            }
+        }
+
+        return curr;
+    }
+    
+    public int countPairs(TreeNode root, int distance) {
+        dfs(root, distance);
+        return goodPairs;
     }
 }
