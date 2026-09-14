@@ -158,6 +158,7 @@ BTW, thanks for checking out..!!
 | [2551-put-marbles-in-bags](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2551-put-marbles-in-bags) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2751-robot-collisions](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2751-robot-collisions) |
+| [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -231,6 +232,7 @@ BTW, thanks for checking out..!!
 | [0787-cheapest-flights-within-k-stops](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 ## Stack
 |  |
 | ------- |
@@ -266,6 +268,7 @@ BTW, thanks for checking out..!!
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2390-removing-stars-from-a-string](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2751-robot-collisions](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2751-robot-collisions) |
+| [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -279,6 +282,7 @@ BTW, thanks for checking out..!!
 | [0901-online-stock-span](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 ## Greedy
 |  |
 | ------- |
@@ -288,6 +292,7 @@ BTW, thanks for checking out..!!
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1903-largest-odd-number-in-string](https://github.com/hirux06/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2551-put-marbles-in-bags](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2551-put-marbles-in-bags) |
+| [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 ## Bit Manipulation
 |  |
 | ------- |
