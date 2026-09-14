@@ -111,6 +111,7 @@ BTW, thanks for checking out..!!
 | [0792-binary-search](https://github.com/hirux06/leetcode-solutions/tree/master/0792-binary-search) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/hirux06/leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0885-spiral-matrix-iii](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0885-spiral-matrix-iii) |
 | [0896-monotonic-array](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/hirux06/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
@@ -665,6 +666,7 @@ BTW, thanks for checking out..!!
 | [0661-image-smoother](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0864-shortest-path-to-get-all-keys) |
+| [0885-spiral-matrix-iii](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0885-spiral-matrix-iii) |
 | [0909-snakes-and-ladders](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0909-snakes-and-ladders) |
 | [0934-shortest-bridge](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -741,6 +743,7 @@ BTW, thanks for checking out..!!
 | [0059-spiral-matrix-ii](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [0885-spiral-matrix-iii](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0885-spiral-matrix-iii) |
 | [0946-validate-stack-sequences](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0946-validate-stack-sequences) |
 | [1441-build-an-array-with-stack-operations](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
