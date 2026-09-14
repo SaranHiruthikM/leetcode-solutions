@@ -141,6 +141,7 @@ BTW, thanks for checking out..!!
 | [1631-path-with-minimum-effort](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1646-kth-missing-positive-number](https://github.com/hirux06/leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1701-average-waiting-time](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1701-average-waiting-time) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/hirux06/leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -732,6 +733,7 @@ BTW, thanks for checking out..!!
 | [1441-build-an-array-with-stack-operations](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1535-find-the-winner-of-an-array-game) |
+| [1701-average-waiting-time](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1701-average-waiting-time) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hirux06/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
