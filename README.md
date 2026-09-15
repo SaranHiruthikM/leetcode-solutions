@@ -973,4 +973,8 @@ BTW, thanks for checking out..!!
 |  |
 | ------- |
 | [1395-count-number-of-teams](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1395-count-number-of-teams) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
