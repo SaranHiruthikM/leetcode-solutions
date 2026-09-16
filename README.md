@@ -222,6 +222,7 @@ BTW, thanks for checking out..!!
 | [1631-path-with-minimum-effort](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1646-kth-missing-positive-number](https://github.com/hirux06/leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -358,6 +359,7 @@ BTW, thanks for checking out..!!
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/hirux06/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/hirux06/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2390-removing-stars-from-a-string](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
@@ -772,6 +774,7 @@ BTW, thanks for checking out..!!
 | [1248-count-number-of-nice-subarrays](https://github.com/hirux06/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hirux06/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Trie
@@ -814,6 +817,7 @@ BTW, thanks for checking out..!!
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2090-k-radius-subarray-averages](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Hash Function
