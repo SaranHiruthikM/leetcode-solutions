@@ -1,42 +1,44 @@
 class Solution {
     public String minWindow(String s, String t) {
-        if (t.length() > s.length()) return "";
+        if(t.length() > s.length()){
+            return "";
+        }
+
+        HashMap<Character, Integer> map = new HashMap<>();
+        for(char ch : t.toCharArray()){
+            map.put(ch, map.getOrDefault(ch, 0) + 1);
+        }
+
+        int n = s.length();
+        int reqCount = t.length();
+        int minWindowSize =Integer.MAX_VALUE;
+        int start_i = 0;
         int left = 0;
         int right = 0;
-        int have = 0;
-        HashMap<Character, Integer> t_map = new HashMap<>();
-        HashMap<Character, Integer> s_map = new HashMap<>();
-        for(char ch  : t.toCharArray()){
-            t_map.put(ch, t_map.getOrDefault(ch, 0) + 1);
-        }
-        int need = t_map.size();
-        int start = 0;
-        int minLen = Integer.MAX_VALUE;
-        while(right < s.length()){
+        while(right < n){
             char ch = s.charAt(right);
-            s_map.put(ch, s_map.getOrDefault(ch, 0) + 1);
-            if(t_map.containsKey(ch) && s_map.get(ch).intValue() == t_map.get(ch).intValue()){
-                have++;
+            if(map.getOrDefault(ch, 0) > 0){
+                reqCount--;
             }
 
-            while(have == need){
-                int length = right - left + 1;
-                if (length < minLen) {
-                    minLen = length;
-                    start = left;
+            map.put(ch, map.getOrDefault(ch, 0) - 1);
+            
+            while(reqCount == 0){
+                int currWindowSize = right - left + 1;
+                if(minWindowSize > currWindowSize){
+                    minWindowSize = currWindowSize;
+                    start_i = left;
                 }
-                char leftch = s.charAt(left);
-                s_map.put(leftch, s_map.get(leftch) - 1);
-                if(t_map.containsKey(leftch) && s_map.get(leftch) < t_map.get(leftch)){
-                    have--;
+                map.put(s.charAt(left), map.getOrDefault(s.charAt(left), 0) + 1);
+                if(map.getOrDefault(s.charAt(left), 0) > 0){
+                    reqCount++;
                 }
                 left++;
             }
+
             right++;
         }
-            return minLen == Integer.MAX_VALUE
-                ? ""
-                : s.substring(start, start + minLen);
-        
+
+        return (minWindowSize == Integer.MAX_VALUE) ? "" : s.substring(start_i, start_i + minWindowSize);
     }
 }
