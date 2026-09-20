@@ -1,25 +1,23 @@
 class Solution {
-    public int atmostK(int[] arr, int k){
-        int left = 0;
-        int right = 0;
-        int count = 0;
+    private int subarrayLessThanK(int[] nums, int k){
+        int left = 0, right = 0, cnt = 0;
         HashMap<Integer, Integer> map = new HashMap<>();
-        while(right < arr.length){
-            map.put(arr[right], map.getOrDefault(arr[right], 0) + 1);
-            while(map.size() > k){
-                map.put(arr[left], map.get(arr[left]) - 1);
-                if(map.get(arr[left]) == 0){
-                    map.remove(arr[left]);
+        while(right < nums.length){
+            map.put(nums[right], map.getOrDefault(nums[right], 0) + 1);
+            while( map.size() > k){
+                map.put(nums[left], map.getOrDefault(nums[left], 0) - 1);
+                if(map.get(nums[left]) == 0){
+                    map.remove(nums[left]);
                 }
                 left++;
             }
-            count += right - left + 1;
+            cnt += (right - left +1);
             right++;
         }
 
-        return count;
+        return cnt;
     }
     public int subarraysWithKDistinct(int[] nums, int k) {
-        return atmostK(nums, k) - atmostK(nums, k-1);
+        return subarrayLessThanK(nums, k) - subarrayLessThanK(nums, k-1);
     }
 }
