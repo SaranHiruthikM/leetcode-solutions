@@ -129,6 +129,7 @@ BTW, thanks for checking out..!!
 | [0994-rotting-oranges](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1052-grumpy-bookstore-owner](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1110-delete-nodes-and-return-forest](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hirux06/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -828,6 +829,7 @@ BTW, thanks for checking out..!!
 | [0904-fruit-into-baskets](https://github.com/hirux06/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/hirux06/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1052-grumpy-bookstore-owner](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1208-get-equal-substrings-within-budget](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hirux06/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hirux06/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
