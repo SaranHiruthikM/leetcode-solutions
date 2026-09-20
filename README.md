@@ -168,6 +168,7 @@ BTW, thanks for checking out..!!
 | [2551-put-marbles-in-bags](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2551-put-marbles-in-bags) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2751-robot-collisions](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2751-robot-collisions) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 ## Two Pointers
 |  |
@@ -664,6 +665,7 @@ BTW, thanks for checking out..!!
 | [2402-meeting-rooms-iii](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2641-cousins-in-binary-tree-ii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Matrix
 |  |
 | ------- |
@@ -831,6 +833,7 @@ BTW, thanks for checking out..!!
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2090-k-radius-subarray-averages](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Hash Function
 |  |
 | ------- |
