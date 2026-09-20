@@ -1,34 +1,31 @@
 class Solution {
-    public int numSubarraysWithSum(int[] arr, int goal) {
-        HashMap<Integer, Integer> map = new HashMap<>();
-        int currSum = 0;
-        int res = 0;
-        map.put(0,1 );
-        for(int num : arr){
-            currSum += num;
-            int needed = currSum - goal;
-            if(map.containsKey(needed)){
-                res += map.get(needed);
-            }
-            map.put(currSum, map.getOrDefault(currSum, 0) + 1);
-        }
-        return res;
+    public int numSubarraysWithSum(int[] nums, int goal) {
+        int prefixZeros = 0;
+        int windowSum = 0;
+        int count = 0;
         
-// int left = 0;
-//         int right = 0;
-//         int sum = 0;
-//         int count = 0;
-//         while(right < arr.length){
-//             sum += arr[right];
-//             if(sum > goal){
-//                 while(sum > goal){
-//                     sum -= arr[left];
-//                     left++;
-//                 }
-//             }
-//             if(sum == goal) count++;
-//             right++;
-//         }
-//         return count;
+        int i = 0, j = 0;
+        
+        while (j < nums.length) {
+            windowSum += nums[j];
+            
+            while (i < j && (nums[i] == 0 || windowSum > goal)) {
+                if (nums[i] == 1) {
+                    prefixZeros = 0;
+                } else {
+                    prefixZeros += 1;
+                }
+                
+                windowSum -= nums[i];
+                i++;
+            }
+            
+            if (windowSum == goal) {
+                count += 1 + prefixZeros;
+            }
+            j++;
+        }
+        
+        return count;
     }
 }
