@@ -169,6 +169,7 @@ BTW, thanks for checking out..!!
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2751-robot-collisions](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2751-robot-collisions) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 ## Two Pointers
 |  |
@@ -834,6 +835,7 @@ BTW, thanks for checking out..!!
 | [2090-k-radius-subarray-averages](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Hash Function
 |  |
 | ------- |
