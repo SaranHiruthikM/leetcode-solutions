@@ -121,6 +121,7 @@ BTW, thanks for checking out..!!
 | [0907-koko-eating-bananas](https://github.com/hirux06/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0909-snakes-and-ladders](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0909-snakes-and-ladders) |
+| [0930-binary-subarrays-with-sum](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0934-shortest-bridge](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0934-shortest-bridge) |
 | [0946-validate-stack-sequences](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0946-validate-stack-sequences) |
 | [0992-subarrays-with-k-different-integers](https://github.com/hirux06/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -645,6 +646,7 @@ BTW, thanks for checking out..!!
 | [0652-find-duplicate-subtrees](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/hirux06/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0992-subarrays-with-k-different-integers](https://github.com/hirux06/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0997-find-the-town-judge) |
@@ -772,6 +774,7 @@ BTW, thanks for checking out..!!
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/hirux06/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hirux06/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hirux06/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -813,6 +816,7 @@ BTW, thanks for checking out..!!
 | [0219-contains-duplicate-ii](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0904-fruit-into-baskets](https://github.com/hirux06/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/hirux06/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hirux06/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hirux06/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
