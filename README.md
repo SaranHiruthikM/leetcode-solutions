@@ -374,6 +374,7 @@ BTW, thanks for checking out..!!
 | [2390-removing-stars-from-a-string](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
@@ -847,6 +848,7 @@ BTW, thanks for checking out..!!
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Hash Function
 |  |
 | ------- |
