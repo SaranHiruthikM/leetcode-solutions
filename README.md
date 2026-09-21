@@ -173,6 +173,7 @@ BTW, thanks for checking out..!!
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
+| [3524-find-x-value-of-array-i](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -253,6 +254,7 @@ BTW, thanks for checking out..!!
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
+| [3524-find-x-value-of-array-i](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Stack
 |  |
 | ------- |
@@ -394,6 +396,7 @@ BTW, thanks for checking out..!!
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1903-largest-odd-number-in-string](https://github.com/hirux06/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
+| [3524-find-x-value-of-array-i](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Tree
 |  |
 | ------- |
