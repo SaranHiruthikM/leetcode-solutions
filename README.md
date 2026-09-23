@@ -151,6 +151,7 @@ BTW, thanks for checking out..!!
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/hirux06/leetcode-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1646-kth-missing-positive-number](https://github.com/hirux06/leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1701-average-waiting-time](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1701-average-waiting-time) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/hirux06/leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -231,6 +232,7 @@ BTW, thanks for checking out..!!
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/hirux06/leetcode-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1646-kth-missing-positive-number](https://github.com/hirux06/leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Dynamic Programming
@@ -668,6 +670,7 @@ BTW, thanks for checking out..!!
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1345-jump-game-iv](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hirux06/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/hirux06/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -794,6 +797,7 @@ BTW, thanks for checking out..!!
 | [1208-get-equal-substrings-within-budget](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hirux06/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hirux06/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
@@ -845,6 +849,7 @@ BTW, thanks for checking out..!!
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2090-k-radius-subarray-averages](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2090-k-radius-subarray-averages) |
