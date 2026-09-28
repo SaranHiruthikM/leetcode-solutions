@@ -927,6 +927,7 @@ BTW, thanks for checking out..!!
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0997-find-the-town-judge](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1584-min-cost-to-connect-all-points](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2097-valid-arrangement-of-pairs](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2097-valid-arrangement-of-pairs) |
@@ -1070,4 +1071,8 @@ BTW, thanks for checking out..!!
 | [0239-sliding-window-maximum](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 <!---LeetCode Topics End-->
