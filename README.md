@@ -324,6 +324,7 @@ BTW, thanks for checking out..!!
 | [0605-can-place-flowers](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0881-boats-to-save-people](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0991-broken-calculator](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0991-broken-calculator) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1903-largest-odd-number-in-string](https://github.com/hirux06/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -409,6 +410,7 @@ BTW, thanks for checking out..!!
 | [0224-basic-calculator](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/hirux06/leetcode-solutions/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/hirux06/leetcode-solutions/tree/master/0282-expression-add-operators) |
+| [0991-broken-calculator](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0991-broken-calculator) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hirux06/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1903-largest-odd-number-in-string](https://github.com/hirux06/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
