@@ -166,6 +166,7 @@ BTW, thanks for checking out..!!
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2090-k-radius-subarray-averages](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2097-valid-arrangement-of-pairs](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2097-valid-arrangement-of-pairs) |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
@@ -331,6 +332,7 @@ BTW, thanks for checking out..!!
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1903-largest-odd-number-in-string](https://github.com/hirux06/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2551-put-marbles-in-bags](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2551-put-marbles-in-bags) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 ## Bit Manipulation
@@ -793,6 +795,7 @@ BTW, thanks for checking out..!!
 | [0905-sort-array-by-parity](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2402-meeting-rooms-iii](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 | [2551-put-marbles-in-bags](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2551-put-marbles-in-bags) |
 | [2751-robot-collisions](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2751-robot-collisions) |
