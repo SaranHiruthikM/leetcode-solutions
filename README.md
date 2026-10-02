@@ -763,6 +763,7 @@ BTW, thanks for checking out..!!
 | [0173-binary-search-tree-iterator](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0901-online-stock-span](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0901-online-stock-span) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Sorting
 |  |
 | ------- |
@@ -856,6 +857,7 @@ BTW, thanks for checking out..!!
 | [1631-path-with-minimum-effort](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2402-meeting-rooms-iii](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 | [2551-put-marbles-in-bags](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2551-put-marbles-in-bags) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -962,6 +964,7 @@ BTW, thanks for checking out..!!
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Topological Sort
 |  |
 | ------- |
@@ -997,6 +1000,7 @@ BTW, thanks for checking out..!!
 | [0743-network-delay-time](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Data Stream
 |  |
 | ------- |
