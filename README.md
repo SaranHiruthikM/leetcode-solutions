@@ -342,6 +342,7 @@ BTW, thanks for checking out..!!
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2405-optimal-partition-of-string](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2405-optimal-partition-of-string) |
 | [2551-put-marbles-in-bags](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2551-put-marbles-in-bags) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 ## Bit Manipulation
@@ -408,6 +409,7 @@ BTW, thanks for checking out..!!
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2405-optimal-partition-of-string](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2405-optimal-partition-of-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -728,6 +730,7 @@ BTW, thanks for checking out..!!
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2402-meeting-rooms-iii](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
+| [2405-optimal-partition-of-string](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2405-optimal-partition-of-string) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
