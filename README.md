@@ -329,6 +329,7 @@ BTW, thanks for checking out..!!
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0991-broken-calculator](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0991-broken-calculator) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1323-maximum-69-number](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1903-largest-odd-number-in-string](https://github.com/hirux06/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -418,6 +419,7 @@ BTW, thanks for checking out..!!
 | [0282-expression-add-operators](https://github.com/hirux06/leetcode-solutions/tree/master/0282-expression-add-operators) |
 | [0991-broken-calculator](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0991-broken-calculator) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hirux06/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1323-maximum-69-number](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1903-largest-odd-number-in-string](https://github.com/hirux06/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
