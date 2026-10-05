@@ -330,6 +330,7 @@ BTW, thanks for checking out..!!
 | [0011-container-with-most-water](https://github.com/hirux06/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0134-gas-station) |
 | [0605-can-place-flowers](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [0881-boats-to-save-people](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0991-broken-calculator](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0991-broken-calculator) |
@@ -387,6 +388,7 @@ BTW, thanks for checking out..!!
 | [0399-evaluate-division](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0451-sort-characters-by-frequency](https://github.com/hirux06/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0649-dota2-senate](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [0796-rotate-string](https://github.com/hirux06/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0839-similar-string-groups](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0839-similar-string-groups) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -1135,6 +1137,7 @@ BTW, thanks for checking out..!!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0649-dota2-senate](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
