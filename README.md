@@ -188,6 +188,7 @@ BTW, thanks for checking out..!!
 | [2551-put-marbles-in-bags](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2551-put-marbles-in-bags) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2751-robot-collisions](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2751-robot-collisions) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
@@ -359,6 +360,7 @@ BTW, thanks for checking out..!!
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2405-optimal-partition-of-string](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2405-optimal-partition-of-string) |
 | [2551-put-marbles-in-bags](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2551-put-marbles-in-bags) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 ## Bit Manipulation
 |  |
@@ -753,6 +755,7 @@ BTW, thanks for checking out..!!
 | [2405-optimal-partition-of-string](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2405-optimal-partition-of-string) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2641-cousins-in-binary-tree-ii) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Matrix
 |  |
@@ -852,6 +855,7 @@ BTW, thanks for checking out..!!
 | [0992-subarrays-with-k-different-integers](https://github.com/hirux06/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/hirux06/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Simulation
 |  |
 | ------- |
