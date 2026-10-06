@@ -162,6 +162,7 @@ BTW, thanks for checking out..!!
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1701-average-waiting-time](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1701-average-waiting-time) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1833-maximum-ice-cream-bars](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/hirux06/leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
@@ -217,6 +218,7 @@ BTW, thanks for checking out..!!
 | [0881-boats-to-save-people](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0908-middle-of-the-linked-list](https://github.com/hirux06/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/hirux06/leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -248,6 +250,7 @@ BTW, thanks for checking out..!!
 | [1631-path-with-minimum-effort](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1646-kth-missing-positive-number](https://github.com/hirux06/leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Dynamic Programming
@@ -308,6 +311,7 @@ BTW, thanks for checking out..!!
 | [1441-build-an-array-with-stack-operations](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2390-removing-stars-from-a-string](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2751-robot-collisions](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2751-robot-collisions) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
@@ -325,6 +329,7 @@ BTW, thanks for checking out..!!
 | [0907-sum-of-subarray-minimums](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 ## Greedy
 |  |
@@ -1183,4 +1188,8 @@ BTW, thanks for checking out..!!
 |  |
 | ------- |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+## Cartesian Tree
+|  |
+| ------- |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 <!---LeetCode Topics End-->
