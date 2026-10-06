@@ -263,6 +263,7 @@ BTW, thanks for checking out..!!
 | [0005-longest-palindromic-substring](https://github.com/hirux06/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/hirux06/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/hirux06/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/hirux06/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hirux06/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -442,6 +443,7 @@ BTW, thanks for checking out..!!
 | [0048-rotate-image](https://github.com/hirux06/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/hirux06/leetcode-solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/hirux06/leetcode-solutions/tree/master/0060-permutation-sequence) |
+| [0070-climbing-stairs](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/hirux06/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/hirux06/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -1212,4 +1214,8 @@ BTW, thanks for checking out..!!
 |  |
 | ------- |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
