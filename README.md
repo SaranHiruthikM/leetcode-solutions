@@ -88,6 +88,7 @@ BTW, thanks for checking out..!!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hirux06/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/hirux06/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/hirux06/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/hirux06/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -270,6 +271,7 @@ BTW, thanks for checking out..!!
 | [0124-binary-tree-maximum-path-sum](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/hirux06/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/hirux06/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0198-house-robber) |
 | [0473-matchsticks-to-square](https://github.com/hirux06/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0542-01-matrix](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
