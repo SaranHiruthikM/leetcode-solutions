@@ -169,6 +169,7 @@ BTW, thanks for checking out..!!
 | [1833-maximum-ice-cream-bars](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/hirux06/leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
@@ -284,6 +285,7 @@ BTW, thanks for checking out..!!
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3524-find-x-value-of-array-i](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Stack
