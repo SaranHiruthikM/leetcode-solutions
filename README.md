@@ -100,6 +100,7 @@ BTW, thanks for checking out..!!
 | [0239-sliding-window-maximum](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/hirux06/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hirux06/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0332-reconstruct-itinerary](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0456-132-pattern](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0456-132-pattern) |
@@ -243,6 +244,7 @@ BTW, thanks for checking out..!!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hirux06/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/hirux06/leetcode-solutions/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0456-132-pattern](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hirux06/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -275,6 +277,7 @@ BTW, thanks for checking out..!!
 | [0152-maximum-product-subarray](https://github.com/hirux06/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0473-matchsticks-to-square](https://github.com/hirux06/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0542-01-matrix](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -1224,4 +1227,8 @@ BTW, thanks for checking out..!!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
