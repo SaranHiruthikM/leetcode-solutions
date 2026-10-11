@@ -197,6 +197,7 @@ BTW, thanks for checking out..!!
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3524-find-x-value-of-array-i](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Two Pointers
@@ -445,6 +446,7 @@ BTW, thanks for checking out..!!
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2405-optimal-partition-of-string](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2405-optimal-partition-of-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
@@ -1040,6 +1042,7 @@ BTW, thanks for checking out..!!
 | [2360-longest-cycle-in-a-graph](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1076,6 +1079,7 @@ BTW, thanks for checking out..!!
 | [0787-cheapest-flights-within-k-stops](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Data Stream
 |  |
 | ------- |
