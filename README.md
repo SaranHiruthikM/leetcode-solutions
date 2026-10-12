@@ -656,6 +656,7 @@ BTW, thanks for checking out..!!
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2641-cousins-in-binary-tree-ii) |
+| [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -913,6 +914,7 @@ BTW, thanks for checking out..!!
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+| [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 ## Trie
 |  |
 | ------- |
@@ -1044,6 +1046,7 @@ BTW, thanks for checking out..!!
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 ## Topological Sort
 |  |
 | ------- |
