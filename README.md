@@ -195,6 +195,7 @@ BTW, thanks for checking out..!!
 | [2751-robot-collisions](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2751-robot-collisions) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2971-find-polygon-with-the-largest-perimeter) |
@@ -378,6 +379,7 @@ BTW, thanks for checking out..!!
 | [2405-optimal-partition-of-string](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2405-optimal-partition-of-string) |
 | [2551-put-marbles-in-bags](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2551-put-marbles-in-bags) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 ## Bit Manipulation
@@ -393,6 +395,7 @@ BTW, thanks for checking out..!!
 | [0847-shortest-path-visiting-all-nodes](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0864-shortest-path-to-get-all-keys) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 ## String
 |  |
@@ -778,6 +781,7 @@ BTW, thanks for checking out..!!
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Matrix
 |  |
