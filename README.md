@@ -120,6 +120,7 @@ BTW, thanks for checking out..!!
 | [0733-flood-fill](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/hirux06/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0752-open-the-lock](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0792-binary-search](https://github.com/hirux06/leetcode-solutions/tree/master/0792-binary-search) |
 | [0839-similar-string-groups](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0839-similar-string-groups) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0864-shortest-path-to-get-all-keys) |
@@ -429,6 +430,7 @@ BTW, thanks for checking out..!!
 | [0433-minimum-genetic-mutation](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0451-sort-characters-by-frequency](https://github.com/hirux06/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0649-dota2-senate](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0649-dota2-senate) |
+| [0752-open-the-lock](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0796-rotate-string](https://github.com/hirux06/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0839-similar-string-groups](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0839-similar-string-groups) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -635,6 +637,7 @@ BTW, thanks for checking out..!!
 | [0662-maximum-width-of-binary-tree](https://github.com/hirux06/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0743-network-delay-time) |
+| [0752-open-the-lock](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -762,6 +765,7 @@ BTW, thanks for checking out..!!
 | [0560-subarray-sum-equals-k](https://github.com/hirux06/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/hirux06/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0652-find-duplicate-subtrees](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0652-find-duplicate-subtrees) |
+| [0752-open-the-lock](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0839-similar-string-groups](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0839-similar-string-groups) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/hirux06/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
@@ -1084,6 +1088,7 @@ BTW, thanks for checking out..!!
 | ------- |
 | [0127-word-ladder](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
+| [0752-open-the-lock](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0752-open-the-lock) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
