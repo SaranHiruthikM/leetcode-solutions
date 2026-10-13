@@ -203,6 +203,7 @@ BTW, thanks for checking out..!!
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3524-find-x-value-of-array-i](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
 | ------- |
@@ -382,6 +383,7 @@ BTW, thanks for checking out..!!
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -870,6 +872,7 @@ BTW, thanks for checking out..!!
 | [2551-put-marbles-in-bags](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2551-put-marbles-in-bags) |
 | [2751-robot-collisions](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2751-robot-collisions) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Divide and Conquer
 |  |
 | ------- |
