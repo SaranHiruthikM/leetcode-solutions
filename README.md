@@ -608,6 +608,7 @@ BTW, thanks for checking out..!!
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2641-cousins-in-binary-tree-ii) |
+| [3123-find-edges-in-shortest-paths](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3123-find-edges-in-shortest-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -662,6 +663,7 @@ BTW, thanks for checking out..!!
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2641-cousins-in-binary-tree-ii) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
+| [3123-find-edges-in-shortest-paths](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3123-find-edges-in-shortest-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -944,6 +946,7 @@ BTW, thanks for checking out..!!
 | [2402-meeting-rooms-iii](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 | [2551-put-marbles-in-bags](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2551-put-marbles-in-bags) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
+| [3123-find-edges-in-shortest-paths](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3123-find-edges-in-shortest-paths) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1055,6 +1058,7 @@ BTW, thanks for checking out..!!
 | [2976-minimum-cost-to-convert-string-i](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
+| [3123-find-edges-in-shortest-paths](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3123-find-edges-in-shortest-paths) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1092,6 +1096,7 @@ BTW, thanks for checking out..!!
 | [1514-path-with-maximum-probability](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3123-find-edges-in-shortest-paths](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3123-find-edges-in-shortest-paths) |
 ## Data Stream
 |  |
 | ------- |
