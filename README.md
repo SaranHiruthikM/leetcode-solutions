@@ -384,6 +384,7 @@ BTW, thanks for checking out..!!
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bit Manipulation
 |  |
@@ -484,6 +485,7 @@ BTW, thanks for checking out..!!
 | [2348-number-of-zero-filled-subarrays](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [3524-find-x-value-of-array-i](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Tree
 |  |
 | ------- |
