@@ -611,6 +611,7 @@ BTW, thanks for checking out..!!
 | [1971-find-if-path-exists-in-graph](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2097-valid-arrangement-of-pairs](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2097-valid-arrangement-of-pairs) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -669,6 +670,7 @@ BTW, thanks for checking out..!!
 | [1631-path-with-minimum-effort](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2360-longest-cycle-in-a-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -1066,6 +1068,7 @@ BTW, thanks for checking out..!!
 | [1615-maximal-network-rank](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1615-maximal-network-rank) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2097-valid-arrangement-of-pairs](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2097-valid-arrangement-of-pairs) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2285-maximum-total-importance-of-roads](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2285-maximum-total-importance-of-roads) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -1081,6 +1084,7 @@ BTW, thanks for checking out..!!
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2360-longest-cycle-in-a-graph](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2360-longest-cycle-in-a-graph) |
 ## Kosaraju's Algorithm
@@ -1234,6 +1238,7 @@ BTW, thanks for checking out..!!
 | ------- |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
