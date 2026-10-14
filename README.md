@@ -286,6 +286,7 @@ BTW, thanks for checking out..!!
 | [0213-house-robber-ii](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0473-matchsticks-to-square](https://github.com/hirux06/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
+| [0514-freedom-trail](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0514-freedom-trail) |
 | [0542-01-matrix](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -430,6 +431,7 @@ BTW, thanks for checking out..!!
 | [0399-evaluate-division](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0451-sort-characters-by-frequency](https://github.com/hirux06/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0514-freedom-trail](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0514-freedom-trail) |
 | [0649-dota2-senate](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [0752-open-the-lock](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0796-rotate-string](https://github.com/hirux06/leetcode-solutions/tree/master/0796-rotate-string) |
@@ -567,6 +569,7 @@ BTW, thanks for checking out..!!
 | [0399-evaluate-division](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/hirux06/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0513-find-bottom-left-tree-value) |
+| [0514-freedom-trail](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0514-freedom-trail) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/hirux06/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -631,6 +634,7 @@ BTW, thanks for checking out..!!
 | [0404-sum-of-left-leaves](https://github.com/hirux06/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0433-minimum-genetic-mutation](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0513-find-bottom-left-tree-value](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0513-find-bottom-left-tree-value) |
+| [0514-freedom-trail](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0514-freedom-trail) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0542-01-matrix) |
