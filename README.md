@@ -160,6 +160,7 @@ BTW, thanks for checking out..!!
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1584-min-cost-to-connect-all-points](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/hirux06/leetcode-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -298,6 +299,7 @@ BTW, thanks for checking out..!!
 | [1395-count-number-of-teams](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1395-count-number-of-teams) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -485,6 +487,7 @@ BTW, thanks for checking out..!!
 | [1248-count-number-of-nice-subarrays](https://github.com/hirux06/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1323-maximum-69-number](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1903-largest-odd-number-in-string](https://github.com/hirux06/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -541,6 +544,7 @@ BTW, thanks for checking out..!!
 | [1367-linked-list-in-binary-tree](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1367-linked-list-in-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1530-number-of-good-leaf-nodes-pairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
@@ -730,6 +734,7 @@ BTW, thanks for checking out..!!
 | [1367-linked-list-in-binary-tree](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1367-linked-list-in-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1530-number-of-good-leaf-nodes-pairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -900,6 +905,7 @@ BTW, thanks for checking out..!!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hirux06/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hirux06/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/hirux06/leetcode-solutions/tree/master/0169-majority-element) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Counting
 |  |
 | ------- |
@@ -1024,6 +1030,7 @@ BTW, thanks for checking out..!!
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Iterator
 |  |
 | ------- |
@@ -1044,6 +1051,7 @@ BTW, thanks for checking out..!!
 | [1254-number-of-closed-islands](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1584-min-cost-to-connect-all-points](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -1286,9 +1294,18 @@ BTW, thanks for checking out..!!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
