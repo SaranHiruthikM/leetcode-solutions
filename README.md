@@ -240,6 +240,7 @@ BTW, thanks for checking out..!!
 | [2149-rearrange-array-elements-by-sign](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/hirux06/leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hirux06/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2396-strictly-palindromic-number](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -489,6 +490,7 @@ BTW, thanks for checking out..!!
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
+| [2396-strictly-palindromic-number](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [3524-find-x-value-of-array-i](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Tree
@@ -1139,6 +1141,7 @@ BTW, thanks for checking out..!!
 |  |
 | ------- |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [2396-strictly-palindromic-number](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 ## Enumeration
 |  |
 | ------- |
