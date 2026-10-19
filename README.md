@@ -177,6 +177,7 @@ BTW, thanks for checking out..!!
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2090-k-radius-subarray-averages](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2097-valid-arrangement-of-pairs](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2097-valid-arrangement-of-pairs) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
@@ -273,6 +274,7 @@ BTW, thanks for checking out..!!
 | [1793-maximum-score-of-a-good-subarray](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -890,6 +892,7 @@ BTW, thanks for checking out..!!
 | [1833-maximum-ice-cream-bars](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1921-eliminate-maximum-number-of-monsters) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2285-maximum-total-importance-of-roads](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2285-maximum-total-importance-of-roads) |
