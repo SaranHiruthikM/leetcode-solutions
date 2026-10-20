@@ -209,6 +209,7 @@ BTW, thanks for checking out..!!
 | [3524-find-x-value-of-array-i](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -498,6 +499,7 @@ BTW, thanks for checking out..!!
 | [2396-strictly-palindromic-number](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [3524-find-x-value-of-array-i](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3886-sum-of-sortable-integers](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Tree
 |  |
 | ------- |
@@ -902,6 +904,7 @@ BTW, thanks for checking out..!!
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1158,6 +1161,7 @@ BTW, thanks for checking out..!!
 | ------- |
 | [1291-sequential-digits](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1291-sequential-digits) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
