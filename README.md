@@ -208,6 +208,7 @@ BTW, thanks for checking out..!!
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3524-find-x-value-of-array-i](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -412,6 +413,7 @@ BTW, thanks for checking out..!!
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## String
 |  |
 | ------- |
