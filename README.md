@@ -191,6 +191,7 @@ BTW, thanks for checking out..!!
 | [2348-number-of-zero-filled-subarrays](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2392-build-a-matrix-with-conditions](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2392-build-a-matrix-with-conditions) |
 | [2402-meeting-rooms-iii](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
@@ -846,6 +847,7 @@ BTW, thanks for checking out..!!
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2392-build-a-matrix-with-conditions](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2392-build-a-matrix-with-conditions) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Backtracking
 |  |
@@ -1099,6 +1101,7 @@ BTW, thanks for checking out..!!
 | [2285-maximum-total-importance-of-roads](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2285-maximum-total-importance-of-roads) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2360-longest-cycle-in-a-graph) |
+| [2392-build-a-matrix-with-conditions](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2392-build-a-matrix-with-conditions) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -1113,6 +1116,7 @@ BTW, thanks for checking out..!!
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2360-longest-cycle-in-a-graph](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2360-longest-cycle-in-a-graph) |
+| [2392-build-a-matrix-with-conditions](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2392-build-a-matrix-with-conditions) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
@@ -1269,6 +1273,7 @@ BTW, thanks for checking out..!!
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2392-build-a-matrix-with-conditions](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2392-build-a-matrix-with-conditions) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
