@@ -105,6 +105,7 @@ BTW, thanks for checking out..!!
 | [0399-evaluate-division](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0456-132-pattern](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0456-132-pattern) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0473-matchsticks-to-square](https://github.com/hirux06/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0485-max-consecutive-ones](https://github.com/hirux06/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/hirux06/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -492,6 +493,7 @@ BTW, thanks for checking out..!!
 | [0268-missing-number](https://github.com/hirux06/leetcode-solutions/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/hirux06/leetcode-solutions/tree/master/0282-expression-add-operators) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0991-broken-calculator](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0991-broken-calculator) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hirux06/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1323-maximum-69-number](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1323-maximum-69-number) |
@@ -892,6 +894,7 @@ BTW, thanks for checking out..!!
 | [0268-missing-number](https://github.com/hirux06/leetcode-solutions/tree/master/0268-missing-number) |
 | [0332-reconstruct-itinerary](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
 | [0451-sort-characters-by-frequency](https://github.com/hirux06/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0645-set-mismatch](https://github.com/hirux06/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0881-boats-to-save-people](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0881-boats-to-save-people) |
