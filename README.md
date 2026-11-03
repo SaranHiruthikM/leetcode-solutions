@@ -1109,6 +1109,7 @@ BTW, thanks for checking out..!!
 | [2392-build-a-matrix-with-conditions](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2392-build-a-matrix-with-conditions) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
+| [2924-find-champion-ii](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2924-find-champion-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
