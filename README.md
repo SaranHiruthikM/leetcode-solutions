@@ -209,6 +209,7 @@ BTW, thanks for checking out..!!
 | [2976-minimum-cost-to-convert-string-i](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
+| [3243-shortest-distance-after-road-addition-queries-i](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3524-find-x-value-of-array-i](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -700,6 +701,7 @@ BTW, thanks for checking out..!!
 | [2641-cousins-in-binary-tree-ii](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2641-cousins-in-binary-tree-ii) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3123-find-edges-in-shortest-paths](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3123-find-edges-in-shortest-paths) |
+| [3243-shortest-distance-after-road-addition-queries-i](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1114,6 +1116,7 @@ BTW, thanks for checking out..!!
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 | [3123-find-edges-in-shortest-paths](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3123-find-edges-in-shortest-paths) |
+| [3243-shortest-distance-after-road-addition-queries-i](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 ## Topological Sort
 |  |
 | ------- |
