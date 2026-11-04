@@ -198,6 +198,7 @@ BTW, thanks for checking out..!!
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2551-put-marbles-in-bags](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2551-put-marbles-in-bags) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2751-robot-collisions](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2751-robot-collisions) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -700,6 +701,7 @@ BTW, thanks for checking out..!!
 | [2360-longest-cycle-in-a-graph](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2360-longest-cycle-in-a-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2641-cousins-in-binary-tree-ii) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3123-find-edges-in-shortest-paths](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3123-find-edges-in-shortest-paths) |
@@ -858,6 +860,7 @@ BTW, thanks for checking out..!!
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2392-build-a-matrix-with-conditions](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2392-build-a-matrix-with-conditions) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Backtracking
 |  |
 | ------- |
@@ -1000,6 +1003,7 @@ BTW, thanks for checking out..!!
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2402-meeting-rooms-iii](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 | [2551-put-marbles-in-bags](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2551-put-marbles-in-bags) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [3123-find-edges-in-shortest-paths](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3123-find-edges-in-shortest-paths) |
 ## Bucket Sort
@@ -1115,6 +1119,7 @@ BTW, thanks for checking out..!!
 | [2360-longest-cycle-in-a-graph](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2360-longest-cycle-in-a-graph) |
 | [2392-build-a-matrix-with-conditions](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2392-build-a-matrix-with-conditions) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2924-find-champion-ii](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2924-find-champion-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -1162,6 +1167,7 @@ BTW, thanks for checking out..!!
 | [0787-cheapest-flights-within-k-stops](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3123-find-edges-in-shortest-paths](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3123-find-edges-in-shortest-paths) |
