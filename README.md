@@ -212,6 +212,7 @@ BTW, thanks for checking out..!!
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -316,6 +317,7 @@ BTW, thanks for checking out..!!
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Stack
 |  |
@@ -509,6 +511,7 @@ BTW, thanks for checking out..!!
 | [2348-number-of-zero-filled-subarrays](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2396-strictly-palindromic-number](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -830,6 +833,7 @@ BTW, thanks for checking out..!!
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Matrix
 |  |
@@ -1006,6 +1010,7 @@ BTW, thanks for checking out..!!
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [3123-find-edges-in-shortest-paths](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3123-find-edges-in-shortest-paths) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1042,6 +1047,7 @@ BTW, thanks for checking out..!!
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Hash Function
 |  |
 | ------- |
