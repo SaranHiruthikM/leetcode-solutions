@@ -201,6 +201,7 @@ BTW, thanks for checking out..!!
 | [2551-put-marbles-in-bags](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2551-put-marbles-in-bags) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
+| [2747-count-zero-request-servers](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2751-robot-collisions) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
@@ -832,6 +833,7 @@ BTW, thanks for checking out..!!
 | [2405-optimal-partition-of-string](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2405-optimal-partition-of-string) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2641-cousins-in-binary-tree-ii) |
+| [2747-count-zero-request-servers](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -928,6 +930,7 @@ BTW, thanks for checking out..!!
 | [2285-maximum-total-importance-of-roads](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2285-maximum-total-importance-of-roads) |
 | [2402-meeting-rooms-iii](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 | [2551-put-marbles-in-bags](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2551-put-marbles-in-bags) |
+| [2747-count-zero-request-servers](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2751-robot-collisions) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -1048,6 +1051,7 @@ BTW, thanks for checking out..!!
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2090-k-radius-subarray-averages](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [2747-count-zero-request-servers](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/SaranHiruthikM/leetcode-solutions/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
